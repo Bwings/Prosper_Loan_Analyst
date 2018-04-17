@@ -1,0 +1,2 @@
+# Prosper_Loan_Analyst
+本次项目使用Python的numpy和pandas库包，及matplotlib等可视化库包对美国P2P网络信贷平台部分数据进行相关性及可视化分析，帮助借贷平台、平台投资人及借款人实现自身利益最大化。
